@@ -1,0 +1,31 @@
+#search {
+  background-color: lightgray;
+  color: teal;
+  border: 2px solid teal;
+  font-size: 20px;
+  font-family: sans-serif;
+  border-radius: 15px;
+  padding: 3px 50px;
+  margin: 10px auto;
+}
+
+#search:hover{
+  color: lightgray;
+  background: teal;
+}
+
+#add {
+  background: teal;
+  color: white;
+  border: none;
+  font-size: 30px;
+  border-radius: 55%;
+  margin: 10px auto;
+}
+
+#createAccount {
+  background: rgb(88, 88, 224);
+  color: white;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px black;
+}
